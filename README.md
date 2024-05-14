@@ -20,13 +20,13 @@ This repository offers introductory materials on Google Colaboratory. The conten
 
 2.   Additional Resources
     - Training an MLP with PyTorch
-        **1_Multilayer_Perceptron_important.ipynb**
+        **Ref_Multilayer_Perceptron_PyTorch.ipynb**
     - Why GPUs are required ?
     - Platforms that you can use for deep learning
-		- Google Colab
-		- ODU Wahab Cluster
+	- Google Colab
+	- ODU Wahab Cluster
         - Dedictaed GPU env at your own lab
-		- Your local machine with GPU capabiities
+	- Your local machine with GPU capabiities
     - Designing an MLP without deep learning frameworks such as TensorFlow, Keras, PyTorch
 
 ---
