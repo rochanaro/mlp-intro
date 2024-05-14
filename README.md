@@ -1,6 +1,6 @@
 This repository offers introductory materials on Google Colaboratory. The content covered is outlined below.
 
-1.   Training an MLP uysing TensorFlow & Keras
+1.   Training an MLP using TensorFlow & Keras
     - configuring the python environment
     - About the dataset
         - MNIST
